@@ -1,1 +1,1 @@
-worker: sh -c 'node index.js load && node index.js'
+worker: node index.js
